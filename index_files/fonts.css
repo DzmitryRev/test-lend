@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "RobotoBold";
+    src: url("RobotoBold/bold.eot");
+    src: url("RobotoBold/bold-.eot#iefix")format("embedded-opentype"),
+    url("RobotoBold/bold.woff") format("woff"),
+    url("RobotoBold/bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "RobotoMedium";
+    src: url("RobotoMedium/medium.eot");
+    src: url("RobotoMedium/medium-.eot#iefix")format("embedded-opentype"),
+    url("RobotoMedium/medium.woff") format("woff"),
+    url("RobotoMedium/medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "RobotoBlack";
+    src: url("RobotoBlack/black.eot");
+    src: url("RobotoBlack/black-.eot#iefix")format("embedded-opentype"),
+    url("RobotoBlack/black.woff") format("woff"),
+    url("RobotoBlack/black.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "OpenSansSemiBold";
+    src: url("OpenSansSemiBold/semibold.eot");
+    src: url("OpenSansSemiBold/semibold-.eot#iefix")format("embedded-opentype"),
+    url("OpenSansSemiBold/semibold.woff") format("woff"),
+    url("OpenSansSemiBold/semibold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("RobotoRegular/regular.eot");
+    src: url("RobotoRegular/regular-.eot#iefix")format("embedded-opentype"),
+    url("RobotoRegular/regular.woff") format("woff"),
+    url("RobotoRegular/regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "CenturyGothicBold";
+    src: url("CenturyGothicBold/bold.eot");
+    src: url("CenturyGothicBold/bold-.eot#iefix")format("embedded-opentype"),
+    url("CenturyGothicBold/bold.woff") format("woff"),
+    url("CenturyGothicBold/bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
